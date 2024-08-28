@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 public class p3_MultiplicationTable {
     public static void main(String[] args) {
-        System.out.println("Ente a number to generate multiplication:-");
+        System.out.println("Ente a number to generate multiplication Table:-");
         Scanner sc=new Scanner(System.in);
         int n=sc.nextInt();
         sc.close();
