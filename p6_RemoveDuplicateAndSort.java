@@ -1,6 +1,6 @@
 package Besic_program;
 
-public class RemoveDuplicateAndSort {
+public class p6_RemoveDuplicateAndSort {
     
 
         public static void main(String[] args) {
